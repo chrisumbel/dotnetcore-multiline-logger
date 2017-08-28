@@ -1,0 +1,11 @@
+2017-08-28 11:33:57.4626 | 39596 | dotnet | 4 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request starting HTTP/1.1 GET http://localhost:5000/   | 
+2017-08-28 11:33:57.5262 | 39596 | dotnet | 4 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request finished in 71.57ms 200  | 
+2017-08-28 11:33:58.6360 | 39596 | dotnet | 5 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request starting HTTP/1.1 GET http://localhost:5000/   | 
+2017-08-28 11:33:58.6360 | 39596 | dotnet | 5 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request finished in 0.402ms 200  | 
+2017-08-28 11:34:00.8204 | 39596 | dotnet | 18 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request starting HTTP/1.1 GET http://localhost:5000/   | 
+2017-08-28 11:34:00.8206 | 39596 | dotnet | 18 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request finished in 0.262ms 200  | 
+2017-08-28 11:34:04.3398 | 39596 | dotnet | 18 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request starting HTTP/1.1 GET http://localhost:5000/   | 
+2017-08-28 11:34:04.3398 | 39596 | dotnet | 18 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request finished in 0.263ms 200  | 
+2017-08-28 11:36:04.4180 | 39652 | dotnet | 4 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request starting HTTP/1.1 GET http://localhost:5000/   | 
+2017-08-28 11:36:04.4686 | 39652 | dotnet | 4 | Info | test | Hello->World! | 
+2017-08-28 11:36:04.4736 | 39652 | dotnet | 4 | Info | Microsoft.AspNetCore.Hosting.Internal.WebHost | Request finished in 62.139ms 200  | 
